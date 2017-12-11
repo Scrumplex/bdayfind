@@ -1,0 +1,22 @@
+Displaying results of birthyears from 1900 to 4000 while only calculating ages from 2 to 60 with powers of 2 to 9: 
+Age 45's power of 2 equals 2025. Birthyear: 1980.
+Age 46's power of 2 equals 2116. Birthyear: 2070.
+Age 47's power of 2 equals 2209. Birthyear: 2162.
+Age 3's power of 7 equals 2187. Birthyear: 2184.
+Age 13's power of 3 equals 2197. Birthyear: 2184.
+Age 48's power of 2 equals 2304. Birthyear: 2256.
+Age 49's power of 2 equals 2401. Birthyear: 2352.
+Age 7's power of 4 equals 2401. Birthyear: 2394.
+Age 50's power of 2 equals 2500. Birthyear: 2450.
+Age 51's power of 2 equals 2601. Birthyear: 2550.
+Age 52's power of 2 equals 2704. Birthyear: 2652.
+Age 14's power of 3 equals 2744. Birthyear: 2730.
+Age 53's power of 2 equals 2809. Birthyear: 2756.
+Age 54's power of 2 equals 2916. Birthyear: 2862.
+Age 55's power of 2 equals 3025. Birthyear: 2970.
+Age 56's power of 2 equals 3136. Birthyear: 3080.
+Age 5's power of 5 equals 3125. Birthyear: 3120.
+Age 57's power of 2 equals 3249. Birthyear: 3192.
+Age 58's power of 2 equals 3364. Birthyear: 3306.
+Age 15's power of 3 equals 3375. Birthyear: 3360.
+Age 59's power of 2 equals 3481. Birthyear: 3422.
